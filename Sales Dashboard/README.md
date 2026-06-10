@@ -1,7 +1,7 @@
 # Sales Performance Dashboard
 
 ## Overview
-This project presents an interactive Sales Performance Dashboard developed using Power BI to analyze sales trends, revenue performance, and key business metrics.  
+This project presents an interactive Ecommerce Sales Performance Dashboard developed using Power BI to analyze sales trends, revenue performance, and key business metrics.  
 The dashboard enables users to explore data through interactive visualizations and gain actionable insights for decision-making.
 
 ## Tools & Technologies
@@ -36,7 +36,7 @@ The dashboard enables users to explore data through interactive visualizations a
 - Enabled data-driven decision-making through interactive reporting.
 
 ## Project Structure
-- 📊 Power BI File: Sales_Performance_Dashboard.pbix  
+- 📊 Power BI File: Ecommerce Sales Performance Dashboard.pbix 
 - 📁 Dataset: Dataset.xlsx  
 - 🖼 Dashboard Preview: Dashboard.png  
 - 📄 Documentation: README.md
