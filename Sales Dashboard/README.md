@@ -26,7 +26,6 @@ The dashboard enables users to explore data through interactive visualizations a
 - Region-wise Sales Performance
 
 ## Dashboard Preview
-
 ### Dashboard Screenshot
 ![Sales Dashboard](Dashboard.png)
 
@@ -37,3 +36,7 @@ The dashboard enables users to explore data through interactive visualizations a
 - Enabled data-driven decision-making through interactive reporting.
 
 ## Project Structure
+- 📊 Power BI File: Sales_Performance_Dashboard.pbix  
+- 📁 Dataset: Dataset.xlsx  
+- 🖼 Dashboard Preview: Dashboard.png  
+- 📄 Documentation: README.md
